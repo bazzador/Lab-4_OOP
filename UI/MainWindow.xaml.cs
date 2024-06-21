@@ -11,7 +11,7 @@ namespace UI
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : Window 
     {
         private OrderBuro _orderBuro;
         private string jsonFilePath = @"C:\Users\Ivanchik\source\repos\Lab№4_OOP\Lab№4_OOP\bin\Debug\orderBuro.json";
